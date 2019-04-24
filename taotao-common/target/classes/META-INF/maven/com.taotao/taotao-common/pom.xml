@@ -45,6 +45,12 @@
 	    <artifactId>slf4j-log4j12</artifactId>
 	    <version>1.7.25</version>
 	</dependency>
-	  	
+	<!-- pagehelper分页工具 -->
+	<dependency>
+	    <groupId>com.github.pagehelper</groupId>
+	    <artifactId>pagehelper</artifactId>
+	    <version>5.1.2</version>
+	</dependency>
+
   </dependencies>
   </project>
